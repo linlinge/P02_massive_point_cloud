@@ -1,0 +1,9 @@
+multi_thread_cpp/.vscode
+multi_thread_cpp/build
+partition/cut-pursuit/.git
+partition/cut-pursuit/build
+partition/ply_c
+partition/__pycache__
+__pycache__
+run/.vscode
+
